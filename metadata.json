@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Booth",
+  "description": "Virtually try on any suit or create entirely new scenes with your face! Upload your photo, then either pick a suit or describe a scene, and let Gemini work its magic.",
+  "requestFramePermissions": []
+}
